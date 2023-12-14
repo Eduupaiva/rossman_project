@@ -29,7 +29,7 @@ Para abordar o problema, foi optado por uma solução baseada em aprendizado de 
 
 1. **Sazonalidade:** Foi possível identificar padrões sazonais significativos nas vendas, destacando a importância de levar em consideração os fatores temporais, foi possível identificar que as lojas tendem a vender menos  no segundo semestre do ano conforme mostra o gráfico:
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/27d03cc9-4158-4ed1-b55b-d9dbcef76a24/832704c2-87ae-4743-998a-fe86769afe7f/Untitled.png)
+    ![Sazonalidade](img/sazonalidade.png)
     
 
 1. **Promoções e Vendas:** A presença de promoções influencia diretamente as vendas, mostrando a necessidade de uma estratégia de promoção eficaz, já que os dados mostram que lojas com promoções consecutivas não vendem mais, os gráficos mostram as vendas ao longo do tempo, distinguindo promoções regulares e estendidas, a presença de ambas as promoções consecutivas não resulta em vendas significativamente maiores
