@@ -32,7 +32,7 @@ Para abordar o problema, foi optado por uma solução baseada em aprendizado de 
     ![sazonalidade](img/sazonalidade.png)
     
 
-1. **Promoções e Vendas:** A presença de promoções influencia diretamente as vendas, mostrando a necessidade de uma estratégia de promoção eficaz, já que os dados mostram que lojas com promoções consecutivas não vendem mais, os gráficos mostram as vendas ao longo do tempo, distinguindo promoções regulares e estendidas, a presença de ambas as promoções consecutivas não resulta em vendas significativamente maiores
+2. **Promoções e Vendas:** A presença de promoções influencia diretamente as vendas, mostrando a necessidade de uma estratégia de promoção eficaz, já que os dados mostram que lojas com promoções consecutivas não vendem mais, os gráficos mostram as vendas ao longo do tempo, distinguindo promoções regulares e estendidas, a presença de ambas as promoções consecutivas não resulta em vendas significativamente maiores
 
 ![promo](img/promo.png)
 
@@ -47,6 +47,10 @@ O mapa de calor de correlação também indica uma correlação positiva entre e
 ## **5. O Produto Final do Projeto**
 
 O resultado final é um modelo de previsão baseado em XGBoost, implementado em uma API no Telegram. Os usuários podem fornecer o número da loja desejada, e o modelo retorna previsões precisas das vendas para as próximas 6 semanas,  isso permite que os gerentes de loja otimizem suas escalas de trabalho e melhorem a eficiência operacional.
+
+### **5.1. Implementação da API no Telegram
+
+A API no telegram encontra-se disponivel no repositório: Rossamn-bot ( https://github.com/Eduupaiva/rossman-bot ), para acessa-lá, basta chamar o bot pelo nome 'RossmanBot' no telegram e colocar o numero da loja desejada para fazer a previsão, ex: para obter a previsão da loja 23 '/23' que o bot retorna a rpevisão.
 
 ## **6. Conclusão**
 
