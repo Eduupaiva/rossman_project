@@ -48,7 +48,7 @@ O mapa de calor de correlação também indica uma correlação positiva entre e
 
 O resultado final é um modelo de previsão baseado em XGBoost, implementado em uma API no Telegram. Os usuários podem fornecer o número da loja desejada, e o modelo retorna previsões precisas das vendas para as próximas 6 semanas,  isso permite que os gerentes de loja otimizem suas escalas de trabalho e melhorem a eficiência operacional.
 
-### **5.1. Implementação da API no Telegram
+### **5.1. Implementação da API no Telegram**
 
 A API no telegram encontra-se disponivel no repositório: Rossamn-bot ( https://github.com/Eduupaiva/rossman-bot ), para acessa-lá, basta chamar o bot pelo nome 'RossmanBot' no telegram e colocar o numero da loja desejada para fazer a previsão, ex: para obter a previsão da loja 23 '/23' que o bot retorna a rpevisão.
 
