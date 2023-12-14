@@ -36,7 +36,7 @@ Para abordar o problema, foi optado por uma solução baseada em aprendizado de 
 
 ![promo](img/promo.png)
 
-1. **Localidade Importante:** A localização das lojas desempenha um papel crucial nas vendas, sugerindo que a estratégia deve ser adaptada às características específicas de cada região, sendo possível identificar que lojas estabelecidas em regiões com competidores mais próximos tendem a vender mais, o gráfico de dispersão e o gráfico de barras categorizado pela distancia dos competidores, mostram uma relação positiva entre proximidade e vendas
+3. **Localidade Importante:** A localização das lojas desempenha um papel crucial nas vendas, sugerindo que a estratégia deve ser adaptada às características específicas de cada região, sendo possível identificar que lojas estabelecidas em regiões com competidores mais próximos tendem a vender mais, o gráfico de dispersão e o gráfico de barras categorizado pela distancia dos competidores, mostram uma relação positiva entre proximidade e vendas
 
 ![localidade](img/localidade.png)
 
