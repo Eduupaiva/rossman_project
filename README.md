@@ -1,3 +1,5 @@
+![rossmann](img/rossmann.jpg)
+
 # Projeto de Previsão de Vendas na Rossmann
 
 ## **1. Problema de Negócio**
