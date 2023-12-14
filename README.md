@@ -34,15 +34,15 @@ Para abordar o problema, foi optado por uma solução baseada em aprendizado de 
 
 1. **Promoções e Vendas:** A presença de promoções influencia diretamente as vendas, mostrando a necessidade de uma estratégia de promoção eficaz, já que os dados mostram que lojas com promoções consecutivas não vendem mais, os gráficos mostram as vendas ao longo do tempo, distinguindo promoções regulares e estendidas, a presença de ambas as promoções consecutivas não resulta em vendas significativamente maiores
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/27d03cc9-4158-4ed1-b55b-d9dbcef76a24/c4c274d9-5e0e-4a1e-ab44-5bd57b9b5f31/Untitled.png)
+![Promoções](img/promo.png)
 
 1. **Localidade Importante:** A localização das lojas desempenha um papel crucial nas vendas, sugerindo que a estratégia deve ser adaptada às características específicas de cada região, sendo possível identificar que lojas estabelecidas em regiões com competidores mais próximos tendem a vender mais, o gráfico de dispersão e o gráfico de barras categorizado pela distancia dos competidores, mostram uma relação positiva entre proximidade e vendas
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/27d03cc9-4158-4ed1-b55b-d9dbcef76a24/8fb06420-edc0-4b0b-b657-648847a4bfd3/Untitled.png)
+![Localização](img/localidade.png)
 
 O mapa de calor de correlação também indica uma correlação positiva entre essa distancia dos competidores e as vendas
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/27d03cc9-4158-4ed1-b55b-d9dbcef76a24/2957774c-3f38-4bb9-aa48-5f4788791798/Untitled.png)
+![Heatloc](img/heatloc.png)
 
 ## **5. O Produto Final do Projeto**
 
