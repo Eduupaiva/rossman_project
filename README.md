@@ -62,3 +62,6 @@ Os passos futuros incluem:
 
 - Melhorar o modelo com dados em tempo real para previsões mais precisas.
 - Buscar aprimorar o modelo para executar previsões mais granulares semana a semana/ dia a dia, sendo possível ajuste mais preciso nas estratégias de vendas .
+
+
+  Portifólio de Projetos: https://eduupaiva.github.io/portifolio_projetos/
