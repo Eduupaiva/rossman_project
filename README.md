@@ -29,20 +29,20 @@ Para abordar o problema, foi optado por uma solução baseada em aprendizado de 
 
 1. **Sazonalidade:** Foi possível identificar padrões sazonais significativos nas vendas, destacando a importância de levar em consideração os fatores temporais, foi possível identificar que as lojas tendem a vender menos  no segundo semestre do ano conforme mostra o gráfico:
     
-    ![Sazonalidade](img/sazonalidade.png)
+    ![sazonalidade](img/sazonalidade.png)
     
 
 1. **Promoções e Vendas:** A presença de promoções influencia diretamente as vendas, mostrando a necessidade de uma estratégia de promoção eficaz, já que os dados mostram que lojas com promoções consecutivas não vendem mais, os gráficos mostram as vendas ao longo do tempo, distinguindo promoções regulares e estendidas, a presença de ambas as promoções consecutivas não resulta em vendas significativamente maiores
 
-![Promoções](img/promo.png)
+![promo](img/promo.png)
 
 1. **Localidade Importante:** A localização das lojas desempenha um papel crucial nas vendas, sugerindo que a estratégia deve ser adaptada às características específicas de cada região, sendo possível identificar que lojas estabelecidas em regiões com competidores mais próximos tendem a vender mais, o gráfico de dispersão e o gráfico de barras categorizado pela distancia dos competidores, mostram uma relação positiva entre proximidade e vendas
 
-![Localização](img/localidade.png)
+![localidade](img/localidade.png)
 
 O mapa de calor de correlação também indica uma correlação positiva entre essa distancia dos competidores e as vendas
 
-![Heatloc](img/heatloc.png)
+![heatloc](img/heatloc.png)
 
 ## **5. O Produto Final do Projeto**
 
